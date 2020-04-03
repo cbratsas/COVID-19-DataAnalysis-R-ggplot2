@@ -4,12 +4,12 @@ science and COVID-19
 Δρ. Χ. Μπράτσα ΕΔΙΠ, Τμήμα Μαθηματικών, Αριστοτελείου Πανεπιστημίου
 Θεσσαλονίκης
 
-
-body {
 <style>
+body {
 text-align: justify}
 </style>
 }
+
 ## 1\. Η εξέλιξη της πανδημίας
 
 <img style="float: left; margin:5px 20px 5px 1px; width:40%" src="https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=650&autorotate=false">
