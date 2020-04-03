@@ -1,7 +1,4 @@
-<style>
-body {
-text-align: justify}
-</style>
+<div align="center">
 
 1. Η εξέλιξη της πανδημίας
 --------------------------
