@@ -4,8 +4,9 @@ science and COVID-19
 Δρ. Χ. Μπράτσα ΕΔΙΠ, Τμήμα Μαθηματικών, Αριστοτελείου Πανεπιστημίου
 Θεσσαλονίκης
 
-<style>
+
 body {
+<style>
 text-align: justify}
 </style>
 
