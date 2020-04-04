@@ -1,8 +1,10 @@
 <img src="math-auth-logo.png" align="right" width="400" /> <br><br> Data
 science and COVID-19
 ================
-Δρ. Χ. Μπράτσα ΕΔΙΠ, Τμήμα Μαθηματικών, Αριστοτελείου Πανεπιστημίου
-Θεσσαλονίκης
+<p align="center"> <b>
+Ασκήση Οπτικοποιήσεων με R και ggplot2 στο μάθημα Ανάλυση Δεδομένων </p></b>
+<p align="center"> Δρ. Χ. Μπράτσα ΕΔΙΠ, Τμήμα Μαθηματικών, Αριστοτελείου Πανεπιστημίου
+Θεσσαλονίκης</p> 
 
 <div align="justify">
 
@@ -283,3 +285,4 @@ confirmed_cases_top7_outside_china <- ....
     Engineering](https://github.com/RamiKrispin/coronavirus?fbclid=IwAR2CDaFkQx09IebW23GwoxcHUN1a8Td27xRLL-O5SBcocExsKk5BI6_B-vY)
 
   - [Initial project by Richie Cotton](https://www.datacamp.com/)
+</div>
