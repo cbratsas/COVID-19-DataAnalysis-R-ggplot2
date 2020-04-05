@@ -1,7 +1,7 @@
 <img src="math-auth-logo.png" align="right" width="400" /> <br><br> Data
 Science and COVID-19
 ================
-
+<p align="center"> Άσκηση στο μάθημα Ανάλυση Δεδομένων Οπτικοποιήσεις εξάπλωσης του COVID-19 με R και ggplot2 </p>
 <div align="justify">
 
 ## 1\. Η εξέλιξη της πανδημίας
